@@ -1,0 +1,7 @@
+
+# Wi-Fi
+https://data.bodik.jp/dataset/d99032ee-bd2c-41af-9fd5-391819dcf7b0/resource/854b560a-2cbb-44db-98b8-4c311d371c73/download/470007_public_wireless_lan.csv
+https://data.bodik.jp/dataset/d134ce1d-9ff5-4d63-88d4-25ac19b8bc14/resource/4b38228f-b224-4846-bb3f-23d2be2fcf31/download/270008_public_wireless_lan_20230228.csv
+
+# いいかんじそう
+https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00200502&tstat=000001116015&cycle=0&result_page=1&tclass1val=0
