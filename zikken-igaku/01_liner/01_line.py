@@ -37,6 +37,7 @@ for conc in df.columns:
     sns.despine()
 
 # %%
+#data_url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9668842/bin/41467_2022_32521_MOESM10_ESM.xlsx"
 data_url = "./data/41467_2022_32521_MOESM10_ESM.xlsx"
 df = pd.read_excel(data_url,
                    sheet_name="Figure1",
