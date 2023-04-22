@@ -92,6 +92,7 @@ ax2.tick_params(axis="both", which="both",
                 labelleft=False, left=False)
 
 # %%
+%%time
 df = pd.read_excel(data_file,
                    skiprows=3,
                    sheet_name="Fig. 4c")
@@ -142,4 +143,5 @@ ax.legend(loc="upper left", fontsize=5)
 ax.set_xlim(-40, 40)
 ax.set_ylim(0, 35)
 sns.despine()
+
 # %%
